@@ -1,0 +1,22 @@
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Clooney\output1.jpg;0
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Clooney\output10.jpg;0
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Clooney\output2.jpg;0
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Clooney\output3.jpg;0
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Clooney\output4.jpg;0
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Clooney\output5.jpg;0
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Clooney\output6.jpg;0
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Clooney\output7.jpg;0
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Clooney\output8.jpg;0
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Clooney\output9.jpg;0
+
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Emma\1.jpg;1
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Emma\2.jpg;1
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Emma\3.jpg;1
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Emma\4.jpg;1
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Emma\5.jpg;1
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Emma\6.jpg;1
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Emma\7.jpg;1
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Emma\8.jpg;1
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Emma\9.jpg;1
+C:\Users\IBM_ADMIN\Documents\Visual Studio 2015\Projects\CameraVisualRecognition\Emma\10.jpg;1
+
